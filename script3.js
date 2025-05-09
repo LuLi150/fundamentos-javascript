@@ -79,6 +79,7 @@ while (contador>=0){
 }
 */
 //Exercicio do  while
+
 let palavra;  
 
 do {
