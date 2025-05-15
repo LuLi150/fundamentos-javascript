@@ -67,3 +67,4 @@ function verificarIdade(numero){
     return lista.insertAdjacentHTML("afterbegin", "<li>antes do divisor</li>")
 }
  verificarIdade(13)
+ 
